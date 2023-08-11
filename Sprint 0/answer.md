@@ -5,8 +5,9 @@ TODO: Student to complete code and comments in the sections below.
 - Able to access lab machines by browser:
 
 - Git version:
-
+- git version 2.40.1.windows.1
 - SSH version:
+- OpenSSH_for_Windows_8.1p1, LibreSSL 3.0.2
 - SSH agent installed: 
 - Able to SSH to lab machines:
 - SCP version:
